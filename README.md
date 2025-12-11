@@ -14,7 +14,7 @@ This is an Example of how users can work on tickets using OsTciket.<br />
 
 <h2>Operating Systems Used </h2>
 
-- Windows 11</b> (21H2)
+- Windows 11</b>
 
 <h2>Ticket Lifecycle Stages</h2>
 
